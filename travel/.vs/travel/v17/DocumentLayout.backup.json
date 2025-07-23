@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuan\\Desktop\\travel\\travel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\model\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:model\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\travel.csproj.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:travel.csproj.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\travel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:travel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|c:\\users\\tuan\\desktop\\travel\\travel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BE2391-C27E-4397-A081-1EF56D761837}|travel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "travel.csproj.tmp",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\travel.csproj.tmp",
+              "RelativeDocumentMoniker": "travel.csproj.tmp",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\travel.csproj.tmp",
+              "RelativeToolTip": "travel.csproj.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T07:40:50.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "travel.http",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\travel.http",
+              "RelativeDocumentMoniker": "travel.http",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\travel.http",
+              "RelativeToolTip": "travel.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-23T07:32:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:39:09.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T06:37:21.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbCon.cs",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\DbCon.cs",
+              "RelativeDocumentMoniker": "DbCon.cs",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\DbCon.cs",
+              "RelativeToolTip": "DbCon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:36:39.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:21:16.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:06:15.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\model\\Hotel.cs",
+              "RelativeDocumentMoniker": "model\\Hotel.cs",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\model\\Hotel.cs",
+              "RelativeToolTip": "model\\Hotel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:35:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\tuan\\Desktop\\travel\\travel\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\tuan\\Desktop\\travel\\travel\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:44:38.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
