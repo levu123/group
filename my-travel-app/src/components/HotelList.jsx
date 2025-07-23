@@ -8,8 +8,8 @@ const HotelList = () => {
   const [error, setError] = useState(null);
 
   // Đặt URL API của bạn ở đây. Đảm bảo nó khớp với cổng mà backend đang chạy.
-  // Đã kiểm tra ở câu hỏi trước: API chạy tại https://localhost:7050/api/Hotels
-  const API_URL = 'https://localhost:7050/api/Hotels'; 
+  // Đã kiểm tra ở câu hỏi trước: API chạy tại http://localhost:5008/api/Hotels
+  const API_URL = 'http://localhost:5008/api/Hotels'; 
 
   useEffect(() => {
     const fetchHotels = async () => {
